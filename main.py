@@ -3,6 +3,8 @@ import settings
 import util
 from cell import Cell
 
+#Github Test
+
 root = Tk()
 root.config(bg="black")
 root.geometry(f'{settings.WIDTH}x{settings.HEIGHT}')
